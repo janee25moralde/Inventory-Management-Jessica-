@@ -13,6 +13,7 @@
     <div class="text-center">
       <div class="jolliPicture" style = "display: flex; justify-content: center; position: relative; right: 60px; top: 80px;">
           <img src="pictures/jolli.png" alt="" style = "width: 150px; height: 150px; ">
+      <img src="pictures/jolli.png" alt="" style = "width: 150px; height: 150px; ">
       </div>
 
        
@@ -20,6 +21,7 @@
         <div>
         <div style = "display: flex; justiy-content: center;">
         <h4 style = "font-weight: bolder; font-size: 25px; position: relative; left: 30px; ">Inventory Management System</h4>
+  
         </div>
         <?php echo display_msg($msg); ?>
       <form method="post" action="auth.php" class="clearfix">
