@@ -9,7 +9,6 @@
       $session->msg("s","Group has been deleted.");
       redirect('group.php');
   } else {
-      $session->msg("d","Group deletion failed Or Missing Prm.");
-      redirect('group.php');
+    
   }
 ?>

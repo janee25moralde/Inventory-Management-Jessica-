@@ -37,7 +37,7 @@
 	
 	<a href="categorie.php" style="color:black;">
     <div class="col-md-3">
-       <div class="panel panel-box clearfix">
+         <div class="panel panel-box clearfix">
          <div class="panel-icon pull-left bg-red">
           <i class="glyphicon glyphicon-th-large"></i>
         </div>
