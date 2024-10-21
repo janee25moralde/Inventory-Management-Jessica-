@@ -13,7 +13,7 @@
     <div class="text-center">
       <div class="jolliPicture" style = "display: flex; justify-content: center; position: relative; right: 60px; top: 80px;">
           <img src="pictures/jolli.png" alt="" style = "width: 150px; height: 150px; ">
-      <img src="pictures/jolli.png" alt="" style = "width: 150px; height: 150px; ">
+          
       </div>
 
        
